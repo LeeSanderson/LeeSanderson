@@ -1,10 +1,9 @@
-# Hi there, I'm Lee! 👋
 
-![Banner Image](https://github.com/LeeSanderson/LeeSanderson/assets/4851977/dcd4cf2e-baa7-4883-9c3e-293b18965805)
+![Banner Image](./github-header-image.png)
 
 ## About Me 🚀
 
-I'm a software engineer, architect, and advocate of [software craftsmanship](https://en.wikipedia.org/wiki/Software_craftsmanship).
+I'm a principal software engineer, architect, and advocate of [software craftsmanship](https://en.wikipedia.org/wiki/Software_craftsmanship).
 
 I started coding when I was 11 years old, writing programs in BASIC for the ZX Spectrum and BBC Micro, and have worked professionally in software development since 1995.
 
@@ -21,3 +20,6 @@ While I am proficient in most programming languages, I consider myself an expert
 - [Twitter](https://twitter.com/SixSidedDev)
 
 
+
+
+<sub>Banner image generated using leviarista's [github-profile-header-generator](https://leviarista.github.io/github-profile-header-generator/).</sub>
